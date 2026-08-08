@@ -1,0 +1,9 @@
+Flask
+Flask-SocketIO
+pandas
+numpy
+scikit-learn
+requests
+python-dotenv
+groq
+matplotlib
